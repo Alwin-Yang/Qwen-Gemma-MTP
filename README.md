@@ -29,9 +29,9 @@ Then open http://127.0.0.1:8888 (or your specific URL) in your browser.
 On first launch you will need to create a password to secure your account and sign in again later. 
 >[!NOTE] Gemma 4 MTP is automatically enabled in Unsloth. You only need to download the regular original Gemma 4 GGUF. 
 
-![Search and download Gemma 4 in Unsloth Studio](images/gemma4.png)
-
-![Search and download Qwen3.6 MTP in Unsloth Studio](images/qwen3.6.png)
+| Gemma 4 | Qwen3.6 MTP |
+|:-:|:-:|
+| ![Search and download Gemma 4 in Unsloth Studio](images/gemma4.png) | ![Search and download Qwen3.6 MTP in Unsloth Studio](images/qwen3.6.png) |
 
 
 ### 4. Run your MTP model
