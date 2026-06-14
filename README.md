@@ -16,6 +16,10 @@ Run in your terminal:
 curl -fsSL https://unsloth.ai/install.sh | sh
 ```
 
+To update Unsloth Studio use the same commands as install:
+```bash
+curl -fsSL https://unsloth.ai/install.sh | sh
+```
 
 ### 2. Launch Unsloth
 MacOS, Linux, WSL and Windows:
@@ -167,3 +171,17 @@ What to check in the response:
 - `timings.draft_n` / `timings.draft_n_accepted` — MTP acceptance; e.g. `234/328 ≈ 71%` acceptance gives roughly a +24% speedup over no speculative decoding.
 
 > Tip: if a run crashes or hangs, a leftover process may still hold VRAM. Clear it with `pkill -f llama` and verify with `nvidia-smi` before restarting.
+
+
+## Reference
+
+
+https://github.com/ggml-org/llama.cpp
+
+
+https://llama.app/
+
+
+https://github.com/ggml-org
+
+
