@@ -178,12 +178,18 @@ What to check in the response:
 ## Reference
 
 
-https://github.com/ggml-org/llama.cpp
+[Unsloth GitHub](https://github.com/unslothai/unsloth)
 
 
-https://llama.app/
+[Unsloth Docs](https://unsloth.ai/docs)
 
 
-https://github.com/ggml-org
+[Llama.cpp GitHub](https://github.com/ggml-org/llama.cpp)
+
+
+[Llama.app](https://llama.app/)
+
+
+[ggml GitHub](https://github.com/ggml-org)
 
 
