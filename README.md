@@ -21,6 +21,8 @@ To update Unsloth Studio use the same commands as install:
 curl -fsSL https://unsloth.ai/install.sh | sh
 ```
 
+>[!NOTE] The installed folder is `~/.unsloth`.
+
 ### 2. Launch Unsloth
 MacOS, Linux, WSL and Windows:
 ```bash
